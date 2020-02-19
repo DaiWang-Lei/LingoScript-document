@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    position: relative;
+    box-sizing: border-box;
+}
+bg-robu{
+    background-color: #1b1d37;
+}
